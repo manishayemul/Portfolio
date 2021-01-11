@@ -5,11 +5,11 @@ render() {
 return (
 <div className="condiv ">
 <h1 className="subtopic"><u>Contact Me</u></h1>
-<h3><a href="mailto:manishayemul13@gmail.com.com">manishayemul13@gmail.com</a></h3>
+<h2><a href="mailto:manishayemul13@gmail.com.com">manishayemul13@gmail.com</a></h2>
 <Social />
 
 </div>
 )
 }
 }
-export default Contact;
+export default Contact
