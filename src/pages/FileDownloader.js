@@ -5,7 +5,7 @@ class FileDownloader extends Component{
   render(){
     return (
       <Button variant="btn-flat" size="xxl">
-       <a href = {PDF} target="_blank"> RESUME</a>
+       <a href = {PDF} target= "_blank" rel="noopener noreferrer" > RESUME</a>
     </Button>
 
     );
