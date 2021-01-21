@@ -137,8 +137,8 @@ color:#000000;
 	color: hsl(220, 80%, 50%);
 	width: 120px;
 	height: 40px;
-	margin-top: calc(30vh - 95px);
-	margin-left: calc(35vw - 75px);
+	margin-top: calc(20vh - 95px);
+	margin-left: calc(8vw - 75px);
 
 	border-radius: 10px;
 	box-shadow: 
