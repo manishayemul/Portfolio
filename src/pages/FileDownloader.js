@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PDF from '../img/DYPCOE_Manisha_Yemul.pdf';
+import PDF from '../img/Manisha.Yemul.pdf';
 import { Button } from 'reactstrap';
 class FileDownloader extends Component{
   render(){
